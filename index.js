@@ -1,3 +1,6 @@
-function theBeatlesPlay(arrayOne, arrayTwo){
+function theBeatlesPlay(arrayMusic, arrayArtist){
   let newArray = [];
+  for(let i = 0; i < arrayMusic.length; i++){
+    
+  }
 }
