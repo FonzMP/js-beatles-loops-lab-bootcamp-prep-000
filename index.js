@@ -7,5 +7,5 @@ function theBeatlesPlay(arrayMusic, arrayArtist){
 }
 
 function johnLennonFacts(array){
-  for(let i = 0; i < array.length; i--)
+  for(let i = 0; i < array.length; i++)
 }
