@@ -24,6 +24,6 @@ function iLoveTheBeatles(number) {
   do {
     loveArray.push(slogan);
     counter--;
-  } while (number < 15)
+  } while (counter < 15)
   return loveArray;
 }
