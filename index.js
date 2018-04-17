@@ -3,4 +3,5 @@ function theBeatlesPlay(arrayMusic, arrayArtist){
   for(let i = 0; i < arrayMusic.length; i++){
     newArray.push(`${arrayArtist} plays ${arrayMusic}`);
   }
+  return newArray;
 }
