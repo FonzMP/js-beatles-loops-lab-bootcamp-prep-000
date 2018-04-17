@@ -10,4 +10,5 @@ function johnLennonFacts(array){
   while (array.length > 0) {
     console.log("${array[i]}!!!")
   }
+  return array;
 }
