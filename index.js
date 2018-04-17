@@ -5,3 +5,7 @@ function theBeatlesPlay(arrayMusic, arrayArtist){
   }
   return newArray;
 }
+
+function johnLennonFacts(){
+  
+}
