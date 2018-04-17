@@ -20,7 +20,7 @@ function johnLennonFacts(array){
 function iLoveTheBeatles(number) {
   const loveArray = [];
   const slogan = "I love the Beatles!";
-  let counter = number;
+  let counter = number + 1;
   do {
     loveArray.push(slogan);
     counter--;
