@@ -9,8 +9,8 @@ function theBeatlesPlay(arrayMusic, arrayArtist){
 function johnLennonFacts(array){
   length = array.length;
   while (length > 0) {
-    console.log(`${array[array.length]}!!!`)
-    array.length--;
+    console.log(`${array[length]}!!!`)
+    length--;
   }
   return array;
 }
