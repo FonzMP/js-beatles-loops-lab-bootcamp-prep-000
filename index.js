@@ -6,6 +6,6 @@ function theBeatlesPlay(arrayMusic, arrayArtist){
   return newArray;
 }
 
-function johnLennonFacts(){
-  
+function johnLennonFacts(array){
+
 }
