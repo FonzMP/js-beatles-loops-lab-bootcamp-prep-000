@@ -22,6 +22,6 @@ function iLoveTheBeatles(number) {
   const slogan = "I love the Beatles!";
   do {
     loveArray.push(slogan);
-  } while (num < 15)
+  } while (number < 15)
   return loveArray;
 }
