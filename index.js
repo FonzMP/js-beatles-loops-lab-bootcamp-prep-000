@@ -16,3 +16,11 @@ function johnLennonFacts(array){
   }
   return beatlesArray;
 }
+
+function iLoveTheBeatles(number) {
+  const loveArray = [];
+  const slogan = "I love the Beatles!";
+  do {
+    loveArray.push(slogan);
+  } while ()
+}
